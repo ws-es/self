@@ -51,6 +51,8 @@
 						</a>
 						<a class="mdui-btn mdui-btn-raised rin-btn rin-btn-pink mdui-text-capitalize"
 							href="https://space.bilibili.com/687417413" target="_blank">
+								<span class="iconfont iconbilibili">
+								</span>
 								Bilibili
 						</a>
 					</div>
