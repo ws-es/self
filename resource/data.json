@@ -1,0 +1,24 @@
+{
+  "texts": [
+    {
+      "part1": "Hello",
+      "part2": "world!"
+    },
+    {
+      "part1": "Welcome",
+      "part2": "to our website!"
+    },
+    {
+      "part1": "Have a great",
+      "part2": "day!"
+    },
+    {
+      "part1": "Coding",
+      "part2": "is fun!"
+    },
+    {
+      "part1": "Stay",
+      "part2": "curious!"
+    }
+  ]
+}
